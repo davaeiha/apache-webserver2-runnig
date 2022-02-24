@@ -1,0 +1,12 @@
+Hello World
+
+If
+(
+Error:
+	XAMPP: Starting Apache...fail.
+	[XAMPP:  Another web server is already running.][1]
+)
+{
+	run ./apache.sh in your ubnto20.4 
+
+}
